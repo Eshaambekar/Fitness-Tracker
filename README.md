@@ -32,10 +32,10 @@ To build a simple Python-based system that helps individuals manually log and tr
 
 ## 🛠 Tools & Technologies Used
 
-- **Languages:** Python, SQL  
+- **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools:** Power BI, Excel, Tableau  
-- **Other:** MySQL Workbench, Tkinter
+- **Tools:** Jupyter Notebook
+- **Other:** Tkinter
 
 ---
 
